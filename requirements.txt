@@ -1,0 +1,14 @@
+ale-py
+gymnasium[all]
+stable-baselines3[extra]
+box2d-py
+matplotlib
+numpy
+pyglet
+pygame
+pyvirtualdisplay
+rarfile
+swig
+torch
+minigrid
+gym
